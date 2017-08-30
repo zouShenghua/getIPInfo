@@ -1,0 +1,6 @@
+framework module IPTool {
+  umbrella header "IPTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
